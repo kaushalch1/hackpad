@@ -25,11 +25,12 @@ SEED XIAO board,
 
 ## Schematics
 <img width="1090" height="581" alt="image" src="https://github.com/user-attachments/assets/419692f2-1b9c-411c-a277-6cbec6a9f59c" />
-## PCB :
+## PCB
 <img width="1090" height="575" alt="image" src="https://github.com/user-attachments/assets/dac47f6a-dda4-4904-8bbb-1f8167e4e695" />
-## 3D view:
+## 3D view
 <img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/e3909e35-7232-4897-90ae-71d6370ae757" />
-## cad photo:
+## cad photo
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/e418096f-9058-41b4-9ef6-29183f072e56" />
 
 
 
