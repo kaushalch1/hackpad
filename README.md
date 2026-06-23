@@ -31,6 +31,6 @@ SEED XIAO board,
 <img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/e3909e35-7232-4897-90ae-71d6370ae757" />
 ## cad photo
 <img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/e418096f-9058-41b4-9ef6-29183f072e56" />
-
-
+## travel photo
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/de29465b-9f47-4fcd-a96f-d174ecbf73cd" />
 
